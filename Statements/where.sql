@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age = 24; --: accede a la información de los usuarios cuya edad es 24
